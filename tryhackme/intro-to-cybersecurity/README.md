@@ -54,4 +54,6 @@ This room introduces the fundamentals of cybersecurity, including offensive and 
 - I’m excited to dive deeper into real labs and CTFs
 
 ---
+## 📸 Screenshot – Ping in Virtual Lab
 
+![Ping Screenshot](basic-ping-test.png)
